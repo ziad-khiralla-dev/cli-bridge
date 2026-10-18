@@ -1,0 +1,9 @@
+# Executive binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test or env files
+.env
